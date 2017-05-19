@@ -3,7 +3,7 @@ import { abc } from './abc';
 class index extends abc {
     constructor() {
         super();
-        console.log("index");
+        console.log("This is index. 24");
         super.sayHi();
     }
 }
